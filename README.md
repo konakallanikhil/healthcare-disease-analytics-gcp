@@ -11,11 +11,16 @@ The pipeline uses Cloud Storage for raw data ingestion, Cloud Composer (Airflow)
 **Key goals include:**
 
 Understanding disease trends by age group, gender, and country.
-
 Analyzing the impact of healthcare access and infrastructure (e.g., doctors, hospital beds).
-
 Correlating treatment types, cost, and vaccine availability with recovery and DALYs.
-
 Evaluating socioeconomic influence (income, education, urbanization) on public health outcomes.
-
 Monitoring 5-year health improvements and regional disparities.
+
+**Technologies Used:**
+
+GCS is used to store and manage the transactional data
+Composer, a managed Apache Airflow service, is utilized to orchestrate Dataflow jobs
+Dataflow, based on Apache Beam, is responsible for data processing, transformation, and loading into BigQuery
+BigQuery serves as a serverless data warehouse
+Looker, a business intelligence and analytics platform, is employed to generate daily reports
+These technologies work together to efficiently process, store, and generate reports on the daily transaction data.
