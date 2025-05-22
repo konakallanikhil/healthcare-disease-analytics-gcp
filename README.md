@@ -6,8 +6,6 @@ End-to-end data pipeline on Google Cloud Platform using Cloud Storage, BigQuery,
 
 This project focuses on building a GCP-based data pipeline and analytics platform for public health data across countries and years. It processes structured healthcare datasets containing disease prevalence, incidence, mortality, treatment details, and socio-economic indicators such as income, education, and urbanization.
 
-The pipeline uses Cloud Storage for raw data ingestion, Cloud Composer (Airflow) for orchestration, BigQuery for transformation and analysis, and Looker Studio or BigQuery BI Engine for visualization.
-
 **Key goals include:**
 
 Understanding disease trends by age group, gender, and country.
@@ -36,5 +34,13 @@ These technologies work together to efficiently process, store, and generate rep
 
 <img width="500" alt="workflow" src="https://github.com/user-attachments/assets/82ba754a-696c-412f-93c4-8659d43941d8" />
 
+**Technologies**
+
+**Cloud :** Google Cloud Platform (GCP)
+**Workflow orchestration:** Airflow (Cloud Composer)
+**Data Lake:** Google Cloud Storage (GCS)
+**Data Warehouse:** Google BigQuery
+**Transformation:** PySpark (DataBrick)
+**Visualisation:** Google Data Studio
 
 
