@@ -18,6 +18,11 @@ Evaluating socioeconomic influence (income, education, urbanization) on public h
 
 Monitoring 5-year health improvements and regional disparities.
 
+**Dataset**:
+Used Global Health Data official dataset for analysing data.
+
+**global_health_data.csv** - This dataset contains the following information like Country, Year, Disease Name, Disease Category, Prevalence Rate, Incidence Rate, Mortality Rate,	Age, Group, Gender, Population Affected, etc.
+
 **Technologies Used:**
 
 **Cloud :** Google Cloud Platform (GCP)
