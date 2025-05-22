@@ -34,4 +34,5 @@ Looker, a business intelligence and analytics platform, is employed to generate 
 
 These technologies work together to efficiently process, store, and generate reports on the daily transaction data.
 
-![GCP Data Pipeline Workflow](images/workflow.png)
+
+![ChatGPT Image May 22, 2025, 12_05_07 PM](https://github.com/user-attachments/assets/30e9d33a-50a2-4e7e-9e3a-3f6ba4f1a099)
