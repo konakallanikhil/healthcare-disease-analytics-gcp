@@ -34,5 +34,6 @@ Looker, a business intelligence and analytics platform, is employed to generate 
 
 These technologies work together to efficiently process, store, and generate reports on the daily transaction data.
 
-<img src="https://github.com/user-attachments/assets/cada94fe-61c3-46a7-b22d-a6e70a408294/workflow.png" width="400"/>
+<img width="768" alt="workflow" src="https://github.com/user-attachments/assets/bf0cfa51-b049-4e41-9a3c-cb1c315a95d6" />
+
 
