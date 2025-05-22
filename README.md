@@ -23,20 +23,25 @@ Monitoring 5-year health improvements and regional disparities.
 **Cloud :** Google Cloud Platform (GCP)
 
 **Data Lake:** Google Cloud Storage (GCS)
+
 GCS is used to store and manage the transactional data
 
 **CLI:** gsutil, gcloud, bq
 
 **Workflow orchestration:** Airflow (Cloud Composer)
+
 Composer, a managed Apache Airflow service, is utilized to orchestrate Dataflow jobs
 
 **Data Warehouse:** Google BigQuery
+
 BigQuery serves as a serverless data warehouse which is pay-u-go which is built using Machine Learning Algorithms where it is cost effective along with built in infra structure
 
-**Transformation:** PySpark (DataBrick)
+**Transformation:** PySpark (DataBricks)
+
 Dataflow, based on Apache Beam, is responsible for data processing, transformation, and loading into BigQuery
 
 **Visualisation:** Google Data Studio
+
 Looker, a business intelligence and analytics platform, is employed to generate daily reports
 
 These technologies work together to efficiently process, store, and generate reports on the daily transaction data.
