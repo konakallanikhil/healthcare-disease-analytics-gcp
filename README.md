@@ -33,3 +33,5 @@ BigQuery serves as a serverless data warehouse
 Looker, a business intelligence and analytics platform, is employed to generate daily reports
 
 These technologies work together to efficiently process, store, and generate reports on the daily transaction data.
+
+![GCP Data Pipeline Workflow](images/workflow.png)
