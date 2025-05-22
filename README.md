@@ -37,10 +37,17 @@ These technologies work together to efficiently process, store, and generate rep
 **Technologies**
 
 **Cloud :** Google Cloud Platform (GCP)
-**Workflow orchestration:** Airflow (Cloud Composer)
+
 **Data Lake:** Google Cloud Storage (GCS)
+
+**CLI:** gsutil, gcloud, bq
+
+**Workflow orchestration:** Airflow (Cloud Composer)
+
 **Data Warehouse:** Google BigQuery
+
 **Transformation:** PySpark (DataBrick)
+
 **Visualisation:** Google Data Studio
 
 
