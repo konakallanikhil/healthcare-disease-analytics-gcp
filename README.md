@@ -52,6 +52,7 @@ Looker, a business intelligence and analytics platform, is employed to generate 
 These technologies work together to efficiently process, store, and generate reports on the daily transaction data.
 
 **Procedure:**
+
 1.Dowloaded the dataset from Kaggle.
 
 2.Designed the GCP complete architecture.
