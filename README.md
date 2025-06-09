@@ -51,6 +51,12 @@ Looker, a business intelligence and analytics platform, is employed to generate 
 
 These technologies work together to efficiently process, store, and generate reports on the daily transaction data.
 
+**Procedure:**
+1.Dowloaded the dataset from Kaggle.
+2.Designed the GCP complete architecture.
+3.Created a data pipeline using Airflow for processing the dataset, uploading it to the datalake, moving the data from the data lake to the data warehouse.
+4.Transform the data in the data warehouse using ETL (extract, transform and load) tool and prepare it for analytics and visualisations.
+
 <img width="500" alt="workflow" src="https://github.com/user-attachments/assets/82ba754a-696c-412f-93c4-8659d43941d8" />
 
 
